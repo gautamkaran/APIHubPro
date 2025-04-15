@@ -1,0 +1,33 @@
+{
+  "name": "apihubpro",
+  "version": "1.0.0",
+  "description": "APIHubPro is a modern, user-friendly platform that centralizes all types of APIs in one convenient place.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautamkaran/APIHubPro.git"
+  },
+  "keywords": [
+    "APIHubPro",
+    "API platform",
+    "All-in-one API platform",
+    "API hub",
+    "Developer API platform",
+    "Free public APIs",
+    "Centralized API platform"
+  ],
+  "author": "gautamkaran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautamkaran/APIHubPro/issues"
+  },
+  "homepage": "https://github.com/gautamkaran/APIHubPro#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  }
+}
