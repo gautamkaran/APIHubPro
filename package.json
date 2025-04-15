@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "APIHubPro is a modern, user-friendly platform that centralizes all types of APIs in one convenient place.",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
